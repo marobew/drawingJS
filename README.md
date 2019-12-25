@@ -1,7 +1,7 @@
 # drawingJs
 🎨 Drawing Board made with VanillaJs 🖌️
 ## Features
-- [x] Draw
+- [ ] Draw
 - [ ] Paint / Fill canvas
 - [ ] Change brush size
 - [ ] Change color
