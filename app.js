@@ -22,15 +22,15 @@ function onMouseMove(event) {
 }
 
 function onMouseDown(event) {
-    painting: true;
+    painting = true;
 }
 
 function startPainting() {
-    painting: true;
+    painting = true;
 }
 
 function stopPainting() {
-    painting: false;
+    painting = false;
 
 }
 
